@@ -7,7 +7,7 @@
             "type": "process",
             "args": [
                 "build",
-                "${workspaceFolder}/HelloCore.csproj"
+                "${workspaceFolder}/HelloCore.ConsoleApp/HelloCore.ConsoleApp.csproj"
             ],
             "problemMatcher": "$msCompile"
         }
