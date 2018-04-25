@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace HelloCore.Console
+namespace HelloCore.ConsoleApp
 {
     class Program
     {
